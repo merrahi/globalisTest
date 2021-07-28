@@ -84,5 +84,6 @@ Array
 # Question 3:
 
 J'ai passé environ 4 heures de réflexion réparties sur hier l'après-midi et aujourd'hui matin
-Le recodage de la fonction foo m'a pris presque 2 heures :)
+Le recodage de la fonction foo m'a pris presque 1 heure
+ :)
 
